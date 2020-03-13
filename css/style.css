@@ -79,3 +79,7 @@ nav {
     color: aliceblue;
     text-align: center;
 }
+.price {
+    color: #DC143C;
+    font-weight: bold;
+}
