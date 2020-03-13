@@ -48,3 +48,29 @@ h4 {
 .espace {
     margin-bottom: 300px;
 }
+
+.espace-top {
+    margin-top: 300px;
+}
+
+footer {
+    background-color: aliceblue;
+}
+
+.al-copi {
+    text-align: center;
+    color: black;
+}
+.footer-team {
+    color: coral;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    text-decoration: none;
+    color: coral;
+}
+nav {
+    background-color: coral;
+}
